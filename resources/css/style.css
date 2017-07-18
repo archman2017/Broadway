@@ -35,7 +35,6 @@ div {
 .supporting {
     text-align: center;
 }
-
 user agent stylesheet
 div {
     display: block;
@@ -52,7 +51,6 @@ div {
 .supporting {
     text-align: center;
 }
-
 user agent stylesheet
 div {
     display: block;
@@ -62,10 +60,16 @@ div {
     font-size: 11px;
     color: white;
 }
-
 user agent stylesheet
 div {
     display: block;
+}
+p {
+    display: block;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
 }
 .btn-nav {
     font-size: 18px;
