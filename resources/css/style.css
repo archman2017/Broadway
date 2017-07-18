@@ -67,3 +67,13 @@ user agent stylesheet
 div {
     display: block;
 }
+.btn-nav {
+    font-size: 18px;
+    color: white;
+}
+user agent stylesheet
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: auto;
+    text-decoration: underline;
+}
