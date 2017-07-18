@@ -57,3 +57,13 @@ user agent stylesheet
 div {
     display: block;
 }
+.footer {
+    background-color: dimgray;
+    font-size: 11px;
+    color: white;
+}
+
+user agent stylesheet
+div {
+    display: block;
+}
