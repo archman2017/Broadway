@@ -1,3 +1,45 @@
+body {
+    font-family: "Helvetica", sans-serif;
+}
+user agent stylesheet
+body {
+    display: block;
+    margin: 8px;
+}
+.hero h1 {
+    font-size: 70px;
+}
+<style>…</style>
+h1, h2, h3 {
+    font-weight: bold;
+}
+user agent stylesheet
+h1 {
+    display: block;
+    font-size: 2em;
+    -webkit-margin-before: 0.67em;
+    -webkit-margin-after: 0.67em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    font-weight: bold;
+}
+.hero {
+    background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
+    text-align: center;
+    color: white;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+.supporting {
+    text-align: center;
+}
+
+user agent stylesheet
+div {
+    display: block;
+}
 .hero {
     background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
     text-align: center;
